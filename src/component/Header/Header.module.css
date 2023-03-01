@@ -1,0 +1,15 @@
+.Header {
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 10px 10px;
+  background: #194b9c;
+  color: #ffff;
+}
+.HeaderNav {
+  display: flex;
+}
+
+.HeaderItem {
+  margin-right: 10px;
+}

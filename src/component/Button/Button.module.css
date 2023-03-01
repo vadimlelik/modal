@@ -1,0 +1,26 @@
+.Button {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  border: none;
+  text-align: center;
+}
+.orange {
+  background: #e6ae09;
+  color: #7596c5;
+}
+.danger {
+  background: #e60909;
+  color: #192b44;
+}
+.arrow {
+  display: inline-block;
+  margin-left: 7px;
+}
+.arrow svg :hover {
+  fill: #8e7e7e;
+}
